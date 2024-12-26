@@ -1,0 +1,19 @@
+[package]
+name = "titanai"              # Unique name for your crate
+version = "0.1.0"             # Initial version
+authors = ["Jim <bigjimmydeere@gmail.com"]
+edition = "2021"
+description = "An AI-powered library for Rust, focused on intelligent operations and integrations."
+readme = "README.md"          # Ensure you have a README.md file
+license = "MIT OR Apache-2.0" # Specify your license
+repository = "https://github.com/TitanEchelon/TitanEchelonAi"
+homepage = "https://github.com/TitanEchelon/TitanEchelonAi"
+documentation = "https://docs.rs/titanai"
+keywords = ["AI", "machine-learning", "titanai"]
+categories = ["artificial-intelligence", "data-processing", "utilities"]
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
