@@ -1,13 +1,11 @@
 <p align="center">
 <picture>
-    <img src="img/titanlogo.png" style="width: 40%; height: 40%;" alt="Titan logo">
+    <img src="img/titanlogo.png" style="width: 20%; height: 20%;" alt="Titan logo">
 </picture>
 <br>
 <a href="https://docs.titan.rs"><img src="https://img.shields.io/badge/📖 docs-titan.rs-dca282.svg" /></a> &nbsp;
 <a href="https://docs.rs/titan-core/latest/titan/"><img src="https://img.shields.io/badge/docs-API Reference-dca282.svg" /></a> &nbsp;
 <a href="https://crates.io/crates/titan-core"><img src="https://img.shields.io/crates/v/titan-core.svg?color=dca282" /></a>
-</br>
-<a href="https://crates.io/crates/titan-core"><img src="https://img.shields.io/crates/d/titan-core.svg?color=dca282" /></a>
 <br>
 <a href="https://discord.gg/vYJjtjCbkW"><img src="https://img.shields.io/discord/511303648119226382?color=%236d82cc&label=Discord&logo=discord&logoColor=white" /></a>
 &nbsp;
@@ -15,7 +13,7 @@
 <br>
 <a href=""><img src="https://img.shields.io/badge/built_with-Rust-dca282.svg?logo=rust" /></a>
 &nbsp;
-<a href="https://x.com/TitanEchelonAI"><img src="https://img.shields.io/twitter/follow/TitanEchelonAi"></a> &nbsp;
+<a href="https://x.com/TitanEchelonAi"><img src="https://img.shields.io/twitter/follow/TitanEchelonAi"></a> &nbsp;
 
 <br>
 </p>
@@ -24,7 +22,7 @@
 ✨ If you would like to help spread the word about Titan, please consider starring the repo!
 
 > [!WARNING]
-> Here be dragons! As we plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
+> We plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
 
 ## [What is Titan?](https://www.titanechelonai.com/developer-wiki)
 Titan is a Rust library for building scalable, modular, and ergonomic **LLM-powered** applications.
