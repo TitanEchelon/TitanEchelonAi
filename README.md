@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/titan-playgrounds-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/titan-playgrounds-light.svg">
-    <img src="img/titan-playgrounds-light.svg" style="width: 40%; height: 40%;" alt="Titan logo">
+    <source media="(prefers-color-scheme: dark)" srcset="img/titanlogo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/titanlogo-light.svg">
+    <img src="img/titanlogo.svg" style="width: 40%; height: 40%;" alt="Titan logo">
 </picture>
 <br>
 <a href="https://docs.titan.rs"><img src="https://img.shields.io/badge/📖 docs-titan.rs-dca282.svg" /></a> &nbsp;
@@ -15,7 +15,7 @@
 <br>
 <a href=""><img src="https://img.shields.io/badge/built_with-Rust-dca282.svg?logo=rust" /></a>
 &nbsp;
-<a href="https://x.com/TitanEchelonAI"><img src="https://img.shields.io/twitter/follow/TitanEchelonAI"></a> &nbsp;
+<a href="https://x.com/TitanEchelonAI"><img src="https://img.shields.io/twitter/follow/Playgrounds0x"></a> &nbsp;
 
 <br>
 </p>
