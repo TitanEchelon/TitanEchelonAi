@@ -1,10 +1,14 @@
 <p align="center">
+<picture>
     <img src="img/titanlogo.png" style="width: 40%; height: 40%;" alt="Titan logo">
+</picture>
 <br>
 <a href="https://docs.titan.rs"><img src="https://img.shields.io/badge/📖 docs-titan.rs-dca282.svg" /></a> &nbsp;
 <a href="https://docs.rs/titan-core/latest/titan/"><img src="https://img.shields.io/badge/docs-API Reference-dca282.svg" /></a> &nbsp;
 <a href="https://crates.io/crates/titan-core"><img src="https://img.shields.io/crates/v/titan-core.svg?color=dca282" /></a>
 </br>
+<a href="https://crates.io/crates/titan-core"><img src="https://img.shields.io/crates/d/titan-core.svg?color=dca282" /></a>
+<br>
 <a href="https://discord.gg/vYJjtjCbkW"><img src="https://img.shields.io/discord/511303648119226382?color=%236d82cc&label=Discord&logo=discord&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/0xPlaygrounds/titan"><img src="https://img.shields.io/github/stars/0xPlaygrounds/titan?style=social" alt="stars - titan" /></a>
@@ -20,29 +24,15 @@
 ✨ If you would like to help spread the word about Titan, please consider starring the repo!
 
 > [!WARNING]
-> As we plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
+> Here be dragons! As we plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
 
-## What is Titan?
+## [What is Titan?](https://www.titanechelonai.com/developer-wiki)
 Titan is a Rust library for building scalable, modular, and ergonomic **LLM-powered** applications.
 
-More information about this crate can be found in the [official](https://docs.titan.rs) & [crate](https://docs.rs/titan-core/latest/titan/) (API Reference) documentations.
+More information about this crate can be found in the [official documentation](https://docs.titan.rs) and the [API Reference documentation](https://docs.rs/titan-core/latest/titan/).
 
 Help us improve Titan by contributing to our [Feedback form](https://bit.ly/Titan-Feeback-Form).
 
-## Table of contents
-
-- [What is Titan?](#what-is-titan)
-- [Table of contents](#table-of-contents)
-- [High-level features](#high-level-features)
-- [Get Started](#get-started)
-  - [Simple example:](#simple-example)
-- [Integrations](#integrations)
-
-## High-level features
-- Full support for LLM completion and embedding workflows
-- Simple but powerful common abstractions over LLM providers (e.g. OpenAI, Cohere) and vector stores (e.g. MongoDB, in-memory)
-- Integrate LLMs in your app with minimal boilerplate
-
-## Get Started
+## [Get Started](https://www.titanechelonai.com/beginner-guide)
 ```bash
 cargo add titan-core
