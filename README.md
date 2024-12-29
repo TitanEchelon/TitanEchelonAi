@@ -5,7 +5,7 @@
 <br>
 <a href="https://docs.titan.rs"><img src="https://img.shields.io/badge/📖 docs-titan.rs-dca282.svg" /></a> &nbsp;
 <a href="https://docs.rs/titan-core/latest/titan/"><img src="https://img.shields.io/badge/docs-API Reference-dca282.svg" /></a> &nbsp;
-<a href="https://crates.io/crates/titan-core"><img src="https://img.shields.io/crates/v/titan-core.svg?color=dca282" /></a>
+<a href="https://crates.io/crates/titanai/0.1.2"><img src="https://img.shields.io/crates/v/titan-core.svg?color=dca282" /></a>
 <br>
 <a href="https://discord.gg/vYJjtjCbkW"><img src="https://img.shields.io/discord/511303648119226382?color=%236d82cc&label=Discord&logo=discord&logoColor=white" /></a>
 &nbsp;
