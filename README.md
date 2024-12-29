@@ -1,9 +1,5 @@
 <p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/titanlogo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/titanlogo-light.svg">
-    <img src="img/titanlogo.svg" style="width: 40%; height: 40%;" alt="Titan logo">
-</picture>
+    <img src="img/titanlogo.png" style="width: 40%; height: 40%;" alt="Titan logo">
 <br>
 <a href="https://docs.titan.rs"><img src="https://img.shields.io/badge/📖 docs-titan.rs-dca282.svg" /></a> &nbsp;
 <a href="https://docs.rs/titan-core/latest/titan/"><img src="https://img.shields.io/badge/docs-API Reference-dca282.svg" /></a> &nbsp;
