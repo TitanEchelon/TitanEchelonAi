@@ -15,7 +15,7 @@
 <br>
 <a href=""><img src="https://img.shields.io/badge/built_with-Rust-dca282.svg?logo=rust" /></a>
 &nbsp;
-<a href="https://x.com/TitanEchelonAI"><img src="https://img.shields.io/twitter/follow/Playgrounds0x"></a> &nbsp;
+<a href="https://x.com/TitanEchelonAI"><img src="https://img.shields.io/twitter/follow/TitanEchelonAI"></a> &nbsp;
 
 <br>
 </p>
