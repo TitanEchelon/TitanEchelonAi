@@ -20,7 +20,7 @@
 ✨ If you would like to help spread the word about Titan, please consider starring the repo!
 
 > [!WARNING]
-> Here be dragons! As we plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
+> As we plan to ship a torrent of features in the following months, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them.
 
 ## What is Titan?
 Titan is a Rust library for building scalable, modular, and ergonomic **LLM-powered** applications.
