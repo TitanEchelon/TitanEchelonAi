@@ -3,7 +3,7 @@
     <img src="img/titanlogo.png" style="width: 20%; height: 20%;" alt="Titan logo">
 </picture>
 <br>
-<a href="https://crates.io/crates/titanai/0.1.2"><img src="https://img.shields.io/badge/crates.io-titanai/0.1.2-dca282.svg" /></a> &nbsp;
+<a href="https://crates.io/crates/titanai"><img src="https://img.shields.io/badge/crates.io-titanai-dca282.svg" /></a> &nbsp;
 <a href="https://discord.gg/vYJjtjCbkW"><img src="https://img.shields.io/discord/511303648119226382?color=%236d82cc&label=Discord&logo=discord&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/TitanEchelonAI/titan"><img src="https://img.shields.io/github/stars/TitanEchelonAI/titan?style=social" alt="stars - titan" /></a>
